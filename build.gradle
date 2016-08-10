@@ -1,8 +1,8 @@
 apply plugin: 'java'
 apply plugin: 'application'
-
+(y)Zawo/-8>x
 version = '1.0.SNAPSHOT'
-mainClassName = 'com.chyld.Main'
+mainClassName = 'com.paws.Main'
 
 task wrapper(type: Wrapper){
   gradleVersion = '2.14.1'
